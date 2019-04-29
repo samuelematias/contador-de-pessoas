@@ -1,7 +1,7 @@
 <!-- header section -->
 <p align="center">
-  <img src="https://imgur.com/PzQf1wp" /><br/>
-  <span><b>Tech-stack.</b></span><br/>
+  <img src="https://i.imgur.com/PzQf1wp.png" /><br/>
+  <span><b>Contador-de-pessoas.</b></span><br/>
   <span>Aplicação Mobile desenvolvida em <b>Flutter.</b></span><br/>
   <span>Rodando em ambas plataformas, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
 </p>
