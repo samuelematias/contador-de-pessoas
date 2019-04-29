@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <img src="https://i.imgur.com/PzQf1wp.png" width="224" height="224" /><br/>
+  <img src="https://i.imgur.com/PzQf1wp.png" width="500" height="500" /><br/>
   <span><b>Contador-de-pessoas.</b></span><br/>
   <span>Aplicação Mobile desenvolvida em <b>Flutter.</b></span><br/>
   <span>Rodando em ambas plataformas, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
