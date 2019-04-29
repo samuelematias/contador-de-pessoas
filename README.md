@@ -27,7 +27,7 @@ Nessa aplicação foi desenvolvido uma simples solução de Incremento e Decreme
 
 ## Tech Stack
 
-- [Flutter](https://github.com/facebook/react-native)
+- [Flutter](https://flutter.dev/)
 
 <br/>
 
